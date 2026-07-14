@@ -21,7 +21,7 @@ IP102 官方 GitHub：
 https://github.com/xpwu95/IP102
 ```
 
-官方 Google Drive：
+官方 Google Drive(推荐使用)：
 
 ```text
 https://drive.google.com/drive/folders/1svFSy2Da3cVMvekBwe13mzyx38XZ9xWo?usp=sharing
