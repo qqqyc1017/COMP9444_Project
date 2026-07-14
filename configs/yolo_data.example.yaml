@@ -1,0 +1,11 @@
+# Copy this file to yolo_data.yaml and change path to your dataset root.
+path: /absolute/path/to/yolo_insect_dataset
+train: train/images
+val: valid/images
+test: test/images
+
+# Replace with the exact class names used by the label IDs.
+names:
+  0: insect_class_0
+  1: insect_class_1
+
